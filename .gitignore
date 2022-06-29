@@ -1,4 +1,5 @@
 .idea
-!mfe01/
-!mferootapp/
+!mfe01/*
+!mferootapp/*
 !README.md
+**/package-lock.json

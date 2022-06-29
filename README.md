@@ -1,6 +1,6 @@
 This repo is an example about using ModuleFederationPlugin discussed in the article
 
-
+https://mytechlearns.blogspot.com/2022/06/single-spa-using-single-spa-react-and.html
 
 mfe01 -- remote app can run using with
 
